@@ -1,4 +1,4 @@
-<img width="1024" height="576" alt="1736918575271" src="https://github.com/user-attachments/assets/f7ddbbcc-a790-4fbb-a6fd-a5d327f29018" />
+<img width="562" height="228" alt="banner ric2" src="https://github.com/user-attachments/assets/d0477f34-8b11-45da-b26d-c7f072ca5777" />
 
 [<img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/09e24e34-b19a-43e4-bcf8-51df1303096b" />](https://www.linkedin.com/in/richard-g%C3%B3mora/)
 
