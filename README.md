@@ -16,13 +16,13 @@ Apasionado por la calidad del software y la mejora continua. Tengo formación en
 
 📌 Interesado en:
 
-Testing funcional y exploratorio
+- Testing funcional y exploratorio
 
-Documentación clara y efectiva
+- Documentación clara y efectiva
 
-Automatización (en proceso de aprendizaje: Selenium, Postman, Python)
+- Automatización (en proceso de aprendizaje: Selenium, Postman, Python)
 
-🚀 Buscando contribuir en proyectos donde pueda aplicar mis conocimientos y seguir aprendiendo.
+🚀 Estoy abierto y buscando contribuir en proyectos donde pueda aplicar mis conocimientos y seguir aprendiendo.
 
 ## 🔗 Herramientas y Lenguajes
 
@@ -30,6 +30,30 @@ Automatización (en proceso de aprendizaje: Selenium, Postman, Python)
 
 ## Idiomas
 - Español (nativo) e Ingles (Intermedio)
+
+# Proyectos
+
+## Pruebas manuales moviles
+- Objetivo: Validar la calidad de una aplicación móvil de entrega de comida mediante pruebas manuales en UI y API.
+
+- Procedimientos: Ejecución de pruebas de usabilidad, navegación y diseño en la interfaz de usuario; validación de endpoints y respuestas en API utilizando Postman; documentación de hallazgos y realización de pruebas regresivas tras las correcciones.
+
+- Conclusiones: Se identificaron y documentaron incidencias en la UI y en la API; se validaron los flujos críticos de compra y entrega, asegurando la correcta funcionalidad de la aplicación para el usuario final.
+
+## Análisis de Datos SQL para Flotas de Taxis
+- Objetivo: Analizar registros de una base de datos de taxis para validar cambios en tablas y obtener información clave sobre compañías y unidades registradas.
+
+- Procedimientos: Revisión de tablas en CLI, ejecución de sentencias SQL (JOIN, ORDER BY, GROUP BY), búsqueda de errores específicos y consultas para identificar número de taxis y compañías con menor flota.
+
+- Conclusiones: Se validaron los cambios en los datos, se documentaron incidencias y se obtuvo un panorama claro de la distribución de taxis, asegurando la consistencia de la información.
+
+## Automatización de Pruebas Web
+
+- Objetivo: Automatizar pruebas de UI y flujo de pago en la aplicación web Urban Routes.
+
+- Procedimientos: Uso de Python y Selenium WebDriver para validar direcciones, selección de tarifas, pago con tarjeta y captura automática de código SMS; simulación de interacciones de usuario y verificación de modales.
+
+- Conclusiones: Flujos críticos validados, reducción de tiempo en pruebas repetitivas y mayor cobertura de escenarios para futuras automatizaciones.
 
 <!--
 **90Rich/90Rich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
